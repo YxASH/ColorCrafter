@@ -29,9 +29,7 @@ PaintApp/
 │── README.md
 
 🔧 Installation & Setup
-Clone the repository:
-
-git clone https://github.com/your-username/PaintApp.git
+Clone the repository: use git clone
 cd PaintApp
 
 Open in Android Studio.
@@ -40,17 +38,3 @@ Run the app on an emulator or a real device.
 
 📜 License
 This project is licensed under the MIT License.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
