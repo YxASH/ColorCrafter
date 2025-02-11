@@ -13,21 +13,6 @@ Language: Kotlin
 Framework: Android SDK
 UI Components: Canvas, Paint API
 
-📂 Project Structure
-PaintApp/
-│── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/paintapp/  # Kotlin source code
-│   │   │   ├── res/  # UI layouts, drawables, and resources
-│   ├── build.gradle.kts
-│── settings.gradle.kts
-│── gradle/
-│── gradlew
-│── gradlew.bat
-│── .gitignore
-│── README.md
-
 🔧 Installation & Setup
 Clone the repository: use git clone
 cd PaintApp
